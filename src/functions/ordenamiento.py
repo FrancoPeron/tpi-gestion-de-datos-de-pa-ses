@@ -1,3 +1,5 @@
+
+# Funcion para imprimir los paises en formato de tabla
 def imprimir_tabla(paises):
     print(f"{'NOMBRE':<35} {'CONTINENTE':<12} {'POBLACION':<12} {'SUPERFICIE (km2)':<18}")
     print("-" * 74)
@@ -10,7 +12,7 @@ def imprimir_tabla(paises):
         print(f"{nombre:<35} {continente:<12} {poblacion:<12} {superficie:<18.2f}")
 
 
-
+# Funcion para ordenar los paises por diferentes criterios (columnas)
 def ordenar_paises(paises):
     print("Opciones de ordenamiento:")
     print("1. Por nombre")
@@ -44,3 +46,7 @@ def ordenar_paises(paises):
     else:
         print("Opción de ordenamiento inválida.")
 
+
+# Se uso la funcion "sort" ya que por detras usa el algoritmo Timsort, a diferencia de otros algoritmos de ordenamiento su complejidad es O(n log n) en el peor caso.
+# Se le paso una función anónima "Lambda" para especificar el criterio de ordenamiento según la opción seleccionada por el usuario.
+# Se creó una función adicional para imprimir los paises en formato de tabla.
