@@ -27,6 +27,7 @@ def menu():
     paises = cargar_paises()
     while True:
         print("\nMenú de opciones:")
+        print("=" * 30) 
         print("1. Agregar un país")
         print("2. Actualizar datos de un país")
         print("3. Buscar un país por nombre")
@@ -36,7 +37,7 @@ def menu():
         print("7. Salir")
 
         opcion = input("Seleccione una opción: ").strip()
-
+        print("\nOpción seleccionada: " + opcion) 
         if opcion == '1':
             agregar_pais(paises)
         elif opcion == '2':
