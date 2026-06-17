@@ -155,9 +155,16 @@ Muestra:
 
 ## 👨‍💻 Autor
 
-Proyecto de gestión de datos de países.
+- Peron Franco 
+- Abaunz Lautaro
+
+  
+## 📝 Marco teorico
+
+https://drive.google.com/file/d/1iUqE1lfUMw1WANtlhSp3S3wH3mLTjB8y/view?usp=drive_link
+
 
 ## 🎞️ Videos Explicativo
 
 
----
+
