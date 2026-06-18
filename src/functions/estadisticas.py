@@ -5,14 +5,14 @@ def mostrar_estadisticas(paises):
 
     pais_mayor_poblacion = pais_mayor_poblacion = paises[0]
     for pais in paises:
-            if pais['poblacion'] > pais_mayor_poblacion['poblacion']:
-                pais_mayor_poblacion = pais
+        if int(pais['poblacion']) > int(pais_mayor_poblacion['poblacion']):
+            pais_mayor_poblacion = pais
                 
                 
     pais_menor_poblacion = pais_mayor_poblacion = paises[0]
     for pais in paises:
-        if pais['poblacion'] < pais_menor_poblacion['poblacion']:
-                pais_menor_poblacion = pais
+        if int(pais['poblacion']) < int(pais_menor_poblacion['poblacion']):
+            pais_menor_poblacion = pais
                             
     
     promedio_poblacion = total_poblacion = 0

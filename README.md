@@ -1,5 +1,43 @@
 # Gestión de Datos de Países
 
+## 🏫 Datos Institucionales
+
+- **Universidad Tecnológica Nacional**
+- **Facultad Regional  / San Nicolás**
+- **Tecnicatura Universitaria en Programación**
+- **Programación 1**
+- **2026 / 1er Cuatrimestre**
+
+### 👨‍🏫 Profesores
+
+- **Coordinación**
+  - Alberto Cortez
+
+- **Profesores**
+  - Ariel Enferrel
+  - Martín A. García
+  - Cinthia Rigoni
+
+- **Tutores**
+  - Matías Torres
+  - Oscar Londero
+  - Ana Eugenia Mutti
+  - Maximiliano Sar Fernández
+  - Luciano Chiroli
+  - Franco Gonzalez
+  - Tomás Ferro
+  - Martina Zabala
+  - Sofía Fernández
+  - Virginia Cimino
+  - Francisco Luis Quarñolo
+  - Flor Camila Gubiotti
+  - Neyén Bianchi
+  - Juan Sarmiento
+  - Guada Maricchiolo
+  - Tomas Garcia
+
+---
+
 Sistema interactivo para gestionar, consultar y analizar información de países del mundo. Permite agregar, actualizar, buscar, filtrar y ordenar países según diversos criterios.
 
 - **Gestión de Datos**: Agregar nuevos países y actualizar información existente
@@ -37,8 +75,8 @@ tpi-gestion-de-datos-de-pa-ses/
 
 1. Clonar o descargar el repositorio:
 ```bash
-git clone https://github.com/usuario/tpi-gestion-de-datos-de-pa-ses.git
-cd tpi-gestion-de-datos-de-pa-ses
+git clone https://github.com/FrancoPeron/tpi-gestion-de-datos-de-paises
+cd tpi-gestion-de-datos-de-paises
 ```
 
 2. Ejecutar el programa:
@@ -166,5 +204,6 @@ https://drive.google.com/file/d/1iUqE1lfUMw1WANtlhSp3S3wH3mLTjB8y/view?usp=drive
 
 ## 🎞️ Videos Explicativo
 
+https://drive.google.com/file/d/1miHDEZG1Cf-M7xmJTXwxiymLhnZz2PnM/view?usp=sharing
 
 
